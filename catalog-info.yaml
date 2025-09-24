@@ -4,5 +4,5 @@ metadata:
   name: backstage-readme
 spec:
   type: website
-  owner: user:guest
+  owner: guests
   lifecycle: experimental
